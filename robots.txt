@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sonicmenuspot.github.io/best-sonic-blasts-in-2025/sitemap.xml
